@@ -44,6 +44,8 @@ textarea {
   font-family: inherit;
   border: 1px solid var(--secondary-color);
   border-radius: 1rem;
+  outline: none;
+  padding: 1rem;
 }
 
 button {
@@ -67,6 +69,7 @@ button {
   /* overflow: scroll; */
   border: 1px solid var(--secondary-color);
   border-radius: 1rem;
+  outline: none;
 }
 
 .footer {
